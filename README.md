@@ -4,7 +4,7 @@ I'm JeffreyChen, I'm a software learner 👨‍💻 who is passionate about open
 
 I'm also a self proclaimed graphic designer and internet surfer🏄‍♂️.
 
-- 🔭 I’m currently working on [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
+- 🔭 I’m currently working on [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) project and [Whisper](https://github.com/TCOTC/Whisper) theme
 - 🌱 I’m currently learning C, JavaScript
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
