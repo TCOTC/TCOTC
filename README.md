@@ -1,11 +1,11 @@
 ## Hi 👋
 
-I'm JeffreyChen, I'm a software learner 👨‍💻 who is passionate about open source.
+I'm Jeffrey Chen, I'm a software learner 👨‍💻 who is passionate about open source.
 
 I'm also a self proclaimed graphic designer and internet surfer🏄‍♂️.
 
-- 🔭 I’m currently working on [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) project and [Whisper](https://github.com/TCOTC/Whisper) theme
-- 🌱 I’m currently learning C, JavaScript
+- 🔭 I’m currently contributing to [SiYuan Note](https://github.com/siyuan-note/siyuan) and its ecosystem including [Whisper Theme](https://github.com/TCOTC/Whisper), [Snippets Plugin](https://github.com/TCOTC/snippets), [Whisper Icons](https://github.com/TCOTC/Whisper-Icons), and other extensions
+- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 
