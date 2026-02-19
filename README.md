@@ -9,7 +9,7 @@ I'm also a self proclaimed graphic designer and internet surfer🏄‍♂️.
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 
-[![JeffreyChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCOTC&show_icons=true&theme=transparent&hide_title=true&count_private=true)](https://bento.me/jeffff)
+[![JeffreyChen](https://github-readme-stats.vercel.app/api?username=TCOTC&show_icons=true&theme=transparent&hide_title=true&count_private=true)](https://mytemos.com/)
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=78434827" target="_blank" style="display: block" align="center">
   <picture>
