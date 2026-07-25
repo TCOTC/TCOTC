@@ -4,7 +4,7 @@ I'm Jeffrey Chen, I'm a software learner 👨‍💻 who is passionate about ope
 
 I'm also a self proclaimed graphic designer and internet surfer🏄‍♂️.
 
-- 🔭 I’m currently contributing to [SiYuan Note](https://github.com/siyuan-note/siyuan) and its ecosystem including [Whisper Theme](https://github.com/TCOTC/Whisper), [Snippets Plugin](https://github.com/TCOTC/snippets), [Whisper Icons](https://github.com/TCOTC/Whisper-Icons), and other extensions
+- 🔭 I'm currently contributing to [SiYuan Note](https://github.com/siyuan-note/siyuan) and its ecosystem including [Whisper Theme](https://github.com/TCOTC/Whisper), [Snippets Plugin](https://github.com/TCOTC/snippets), and other extensions. I'm also maintaining [SiYuan Bazaar](https://github.com/siyuan-note/bazaar), the community marketplace for SiYuan plugins, themes, icons, templates and widgets
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
